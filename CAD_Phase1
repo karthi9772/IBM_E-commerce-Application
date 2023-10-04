@@ -1,0 +1,44 @@
+#Artisanal E-commerce Platform on IBM Cloud Foundry
+
+##Problem Definition:
+The digital landscape is bustling with e-commerce platforms, but there is a notable gap for specialized artisanal platforms.
+Our aim is to fill this void by creating an artisanal e-commerce platform using IBM Cloud Foundry. 
+
+###The primary objectives are:
+Bridging skilled artisans with a global audience.
+Offering a dedicated space to showcase handmade products such as jewelry, home decor, and more.
+Ensuring online transactions are secure and user-friendly with features like secure shopping carts, integrated payment gateways, and an intuitive checkout process.
+Crafting a user-centric design that caters to both the artisans, 
+by providing them with an efficient interface to manage their products and orders, and the customers, by offering them a seamless shopping experience.
+
+##Design Thinking:
+###1. Platform Design:
+The platform layout should be structured yet fluid, allowing ease of navigation. Main sections to consider:
+Homepagehighlighting trending products, artisans, and categories.
+Product Categoriesfor efficient product discovery.
+Individual Product Pageswith detailed descriptions, images, and artisan profiles.
+Shopping Cartwith clear product details and the option to easily add or remove items.
+Checkoutwith multiple payment options and a clear summary of the purchase.
+###2. Product Showcase:
+A robust database is crucial for storing extensive product details:
+Utilize IBM Cloud Databases to store product images, detailed descriptions, pricing, categories, and artisan details.
+Offer artisans an intuitive interface to add, edit, or remove their products.
+###3. User Authentication:
+Secure and hassle-free user experience is paramount:
+Implement registration and login mechanisms for both artisans and customers.
+Ensure data protection with encrypted passwords and possibly two-factor authentication.
+###4. Shopping Cart and Checkout:
+Efficiency and clarity are key:
+Users should be able to add or remove products with ease.
+The checkout process should display a clear summary, shipping details, and estimated delivery time.
+Ensure a guest checkout option for users who don't want to register.
+###5. Payment Integration:
+Secure and varied payment options increase user trust and convenience:
+Integrate with renowned payment gateways like Stripe, PayPal, etc.
+Ensure transaction details are encrypted and secure.
+Provide a clear payment confirmation and digital receipt.
+###6. User Experience:
+The overall aesthetic and functional efficiency can make or break the platform:
+Use a clean and modern design with emphasis on product visuals.
+Optimize load times and ensure mobile responsiveness.
+Include user reviews, ratings, and feedback mechanisms to continually refine the user experience.
