@@ -1,0 +1,43 @@
+pip install -r requirements.txt
+pip install instamojo_wrapper
+
+///////////////////////
+pip install vitualenv
+pip install flask flask_sqlalchemy
+
+virtualenv venv
+
+
+/////////////////////////////
+create a folder "templates"
+copy & paste index.html
+
+create a folder static
+copy & paste styles.css 
+
+in the static folder 
+
+create a folder structure by following
+inside of static "images/product_images/"place the img files here""
+//////////////////////////////////
+.\venv\Scripts\activate
+
+pip install Flask Flask-SQLAlchemy
+
+python app.py
+
+/////////////////////////////////////
+in another cmd
+
+.\venv\Scripts\activate
+
+python init_db.py
+
+//////////////////////////////////////
+
+in another cmd
+
+.\venv\Scripts\activate
+
+python add_products_data.py
+
