@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+}
+
+h1 {
+    color: #2c3e50;
+}
+
+li {
+    border: 1px solid #ecf0f1;
+    padding: 20px;
+    margin-bottom: 10px;
+    list-style-type: none;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
